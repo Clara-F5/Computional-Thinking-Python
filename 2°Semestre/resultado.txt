@@ -1,0 +1,4 @@
+palavra mais frequente: de
+quantidade de vezes: 3
+letra mais frequente:  
+quantidade de vezes: 64
